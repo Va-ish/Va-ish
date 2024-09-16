@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm a Full Stack Developer with 2 years of hands-on experience specializing in React.js, Node.js, and Express.js. Passionate about building dynamic, responsive web applications, I leverage a robust understanding of frontend and backend technologies to create seamless user experiences and efficient server-side solutions.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on LinkedIn:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/ vaishnavi-bhongale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ vaishnavi-bhongale" height="30" width="40" /></a>
 </p>
